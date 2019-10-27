@@ -1,5 +1,5 @@
-# Milestone Project One
+# Milestone Project One - Matt's Café
 
-Will be updated in due course.
+## Code Institute / User-Centric Frontend Development Milestone Project
 
-Orla
+Project purpose: To build a static front-end site to present useful information to users, using all the technologies that have been covered in the course so far.
