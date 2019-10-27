@@ -1,7 +1,5 @@
-# Code Institute
+# Milestone Project One
 
-Welcome Orla Madden,
+Will be updated in due course.
 
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+Orla
