@@ -1,3 +1,18 @@
 body {
-    background-color: gray;
+    background-color: rgb(219, 219, 219);
+    margin: 0;
+}
+
+/*------------- Hero Section --*/
+.bg-image {
+    background-color: cadetblue;
+    min-height: 600px;
+}
+
+/*------------- Footer Section --*/
+
+.bg-footer {
+    background-color:#2b2b2b;
+    color: white;
+    height: 80px;
 }
