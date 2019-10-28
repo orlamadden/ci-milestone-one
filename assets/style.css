@@ -11,13 +11,17 @@ body {
 
 /*------------- Main Section --*/
 
-.container-box {
+.menu-box {
     border: 1px solid red;
-    height: 400px;
+    height: 500px;
 }
 
 .menu-item {
     border: 1px solid purple;
+}
+
+.menu-item-price {
+    float: right;
 }
 
 /*------------- Footer Section --*/
