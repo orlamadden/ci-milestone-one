@@ -16,3 +16,9 @@ body {
     color: white;
     height: 80px;
 }
+
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    color: #fafafa;
+}
