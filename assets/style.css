@@ -12,7 +12,7 @@ body {
 /*------------- Main Section --*/
 
 .menu-box {
-    border: 1px solid red;
+    border: 2px solid red;
     min-height: 500px;
 }
 
@@ -22,6 +22,20 @@ body {
 
 .menu-item-price {
     float: right;
+}
+
+/*------------- Gallery Section --*/
+
+.gallery-box {
+    border: 2px solid rgb(0, 140, 255);
+    min-height: 500px;
+}
+
+/*------------- Contact Section --*/
+
+.contact-box {
+    border: 2px solid rgb(141, 14, 124);
+    min-height: 500px;
 }
 
 /*------------- Footer Section --*/
