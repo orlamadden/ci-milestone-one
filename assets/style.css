@@ -38,6 +38,11 @@ body {
     min-height: 500px;
 }
 
+.contact-info {
+    border: 1px solid green;
+    height: 200px;
+}
+
 /*------------- Footer Section --*/
 
 .bg-footer {
