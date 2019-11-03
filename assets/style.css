@@ -3,13 +3,15 @@ body {
     margin: 0;
 }
 
-/*------------- Hero Section --*/
-.bg-image {
-    background-color: cadetblue;
-    min-height: 600px;
+/*-- Hero Section --*/
+.hero-image {
+    background-image: url("/assets/images/cafe-background.jpg");
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-/*------------- Main Section --*/
+/*-- Main Section --*/
 
 .menu-box {
     border: 2px solid red;
@@ -24,14 +26,14 @@ body {
     float: right;
 }
 
-/*------------- Gallery Section --*/
+/*-- Gallery Section --*/
 
 .gallery-box {
     border: 2px solid rgb(0, 140, 255);
     min-height: 500px;
 }
 
-/*------------- Contact Section --*/
+/*-- Contact Section --*/
 
 .contact-box {
     border: 2px solid rgb(141, 14, 124);
@@ -43,7 +45,7 @@ body {
     height: 200px;
 }
 
-/*------------- Footer Section --*/
+/*-- Footer Section --*/
 
 .bg-footer {
     background-color:#2b2b2b;
