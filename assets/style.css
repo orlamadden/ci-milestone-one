@@ -3,6 +3,21 @@ body {
     margin: 0;
 }
 
+/*-- Nav Section --*/
+
+.nav-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-left: 0;
+    padding-right: 0;
+    z-index: 99;
+}
+
+.bg-color {
+    background-color: #8B24B3;
+}
+
 /*-- Hero Section --*/
 .hero-image {
     background-image: url("/assets/images/cafe-background.jpg");
