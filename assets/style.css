@@ -1,6 +1,8 @@
 body {
     background-color: rgb(219, 219, 219);
     margin: 0;
+    /* the below code hides horizontal scrollbar https://stackoverflow.com/questions/18645870/responsive-website-how-to-get-rid-of-horizontal-scroll-bar */
+    overflow-x: hidden;
 }
 
 /*-- Nav Section --*/
@@ -21,7 +23,7 @@ body {
 /*-- Hero Section --*/
 .hero-image {
     background-image: url("/assets/images/cafe-background.jpg");
-    min-height: 100vh;
+    height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
