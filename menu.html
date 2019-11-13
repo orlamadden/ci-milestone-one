@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="assets/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.css" />
+    <script src="https://kit.fontawesome.com/3bb2c98f2a.js" crossorigin="anonymous"></script>
+    <title>Café Website</title>
+</head>
+<body>
+
+<!--Header section containing navbar-->
+<header class="nav-container container-fluid">
+    <nav class="navbar navbar-expand-lg navbar-light bg-color">
+    <a class="navbar-brand text-white" href="#">Matt's Café</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ml-auto text-uppercase">
+            <li class="nav-item">
+                <a class="nav-link text-white" href="index.html">Home</a>
+            </li>
+            <li class="nav-item disabled">
+                <a class="nav-link text-white active" href="menu.html">Menu</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-white" href="#">Opening Hours</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-white" href="#">Location</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-white" href="#">Contact</a>
+            </li>
+        </ul>
+    </div>
+    </nav>
+</header>
+<!--Background-image-->
+<figure class="hero-image">
+              <!-- Hero Content -->
+            <div class="container">
+                <!--Grid row-->
+                <div class="opaque-overlay">
+                <div class="row">
+                  <!--Grid Full width column-->
+                  <div class="col-12 text-center hero-text-box">
+                    <h1 class="hero-heading text-uppercase"><strong>Our Menu</strong></h1>
+                  </div>
+                  <!-- End Grid column-->
+                </div>
+                <!--End Grid row-->
+                </div>
+            </div>
+              <!-- End Hero Content -->
+</figure>
+
+<!-- Main section with menu-->
+<section class="menu-box">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col">
+                    <h5>Our Menu</h5>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6 menu-item-column">
+                    <h3>Breakfast</h3>
+                    <!-- Individual menu items for easier customisation -->
+                    <div class="menu-item">
+                        <h5>Full Irish Breakfast<span class="menu-item-price">€9.90</span></h5>
+                        <p>2 Rashers, 2 sausage, 2 white pudding, 2 frieds eggs, tomato, mushrooms and home baked beans.</p>
+                    </div>
+                    <div class="menu-item">
+                        <h5>Mini Irish Breakfast<span class="menu-item-price">€7.90</span></h5>
+                        <p>1 Rasher, 1 sausage, 1 white pudding, 1 fried eggs, tomato, mushrooms and home baked beans.</p>
+                    </div>
+                    <div class="menu-item">
+                        <h5>Breakfast Roll<span class="menu-item-price">€8.90</span></h5>
+                        <p>2 rashers, 2 sausages, 2 fried eggs, 2 hashbrown and mushrooms served on homemade white or brown roll.</p>
+                    </div>
+                    <div class="menu-item">
+                        <h5>Poached Eggs and Clonakilty Pudding<span class="menu-item-price">€8.90</span></h5>
+                        <p>2 poached eggs served on sourdough bread, smashed avocado, potato cubes and side salad.</p>
+                    </div>
+                    <div class="menu-item">
+                        <h5>Belgian Waffles<span class="menu-item-price">€7.90</span></h5>
+                        <p>Homemade Belgian waffles topped with strawberries and maple syrup.</p>
+                    </div>
+                </div>
+                <div class="col-md-6 menu-item-column">
+                    <h3>Lunch</h3>
+                    <div class="menu-item">
+                        <h5>Chicken Curry<span class="menu-item-price">€10.90</span></h5>
+                        <p>Mild & creamy curry, basmati rice, crispy poppadom, mint riata & mango chutney.</p>
+                    </div>
+                     <div class="menu-item">
+                        <h5>Homemade Lasagne<span class="menu-item-price">€12.90</span></h5>
+                        <p>Served with garlic bread, homemade chips and reggiano parmesan shavings.</p>
+                    </div>
+                    <div class="menu-item">
+                        <h5>Bacon & Cabbage<span class="menu-item-price">€12.90</span></h5>
+                        <p>Irish ham and cabbage served with creamed potato (or roast potatoes), parsley sauce & Irish mustard.</p>
+                    </div>
+                    <div class="menu-item">
+                        <h5>Homemade Cheeseburger<span class="menu-item-price">€13.90</span></h5>
+                        <p>Lean Irish beef burger, cheddar cheese, crispy bacon, beef tomato, onion, lettuce on toasted brioche bun, served with french fries.</p>
+                    </div>
+                    <div class="menu-item">
+                        <h5>Chicken Salad<span class="menu-item-price">€9.90</span></h5>
+                        <p>Grilled spiced chicken, avocado, chickpea croutons, green bean salad, mint yogurt dressing.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col text-center">
+                    <a class="btn btn-primary btn-lg" href="#" role="button">VIEW MORE</a>
+                </div>
+            </div>
+        </div>
+</section>
+
+<!-- Start Footer Section -->
+
+<footer class="bg-footer text-center">
+        <div class="container secondary-footer">
+            <div class="row">
+                <div class="col">
+                <!-- Social media links -->
+                    <h5>Follow us</h5>
+                    <ul class="list-inline social-links py-2">
+                        <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-square"></i></a></li>
+                        <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin"></i></a></li>
+                        <li class="list-inline-item"><a href="#"><i class="fab fa-twitter-square"></i></a></li>
+                        <li class="list-inline-item"><a href="#"><i class="fab fa-instagram"></i></a></li>
+                    </ul>
+                    <div class="copyright">Designed with &#10084; by Orla Madden for Code Institute</div>
+                </div>
+            </div>
+        </div>
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html>
