@@ -12,7 +12,25 @@ body {
 /*-- Global styles --*/
 
 .script-text {
+    font-size: 1.2rem;
     font-family: 'Pacifico', cursive;
+}
+
+.script-text--purple {
+    color: #8B24B3;
+}
+
+.block-divider {
+    height: 3px;
+    width: 60px;
+}
+
+.block-divider-yellow {
+    background-color: yellow;
+}
+
+.bold-text {
+    font-weight: 700;
 }
 
 /*-- Nav Section --*/
@@ -44,11 +62,12 @@ body {
 }
 
 .hero-heading {
+    font-size: 3rem;
     color: white;
 }
 
 .hero-text-box {
-    padding-top: 200px;
+    padding-top: 300px;
 }
 
 .opaque-overlay {
@@ -57,7 +76,11 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.sub-heading {
+    font-size: 1.2rem;
 }
 
 /*-- Main Section --*/
