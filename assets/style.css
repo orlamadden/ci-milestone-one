@@ -94,8 +94,7 @@ body {
 /*-- Main Section --*/
 
 .discover-box {
-    border: 2px solid red;
-    /* min-height: 500px; */
+    background-color: #fafafa;
 }
 
 .menu-item-outer-box {
@@ -111,7 +110,7 @@ body {
 /*-- Gallery Section --*/
 
 .gallery-box {
-    border: 2px solid rgb(0, 140, 255);
+    /* border: 2px solid rgb(0, 140, 255); */
     min-height: 500px;
 }
 
@@ -125,7 +124,7 @@ body {
 }
 
 .contact-info {
-    border: 1px solid green;
+    /* border: 1px solid green; */
     min-height: 200px;
     list-style: none;
 }
