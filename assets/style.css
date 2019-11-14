@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Muli:400,700|Pacifico&display=swap');
 
 body {
-    background-color: rgb(219, 219, 219);
+    background-color: rgb(255, 255, 255);
     font-family: 'Muli', sans-serif;
     margin: 0;
     /* the below code hides horizontal scrollbar https://stackoverflow.com/questions/18645870/responsive-website-how-to-get-rid-of-horizontal-scroll-bar */
@@ -16,8 +16,8 @@ body {
     font-family: 'Pacifico', cursive;
 }
 
-.script-text--purple {
-    color: #8B24B3;
+.script-text--yellow {
+    color: #ffc64b;
 }
 
 .block-divider {
@@ -26,7 +26,7 @@ body {
 }
 
 .block-divider-yellow {
-    background-color: yellow;
+    background-color: #ffc64b;
 }
 
 .bold-text {
@@ -49,7 +49,7 @@ body {
 }
 
 .active {
-    color: yellow;
+    color: #ffc64b;
 }
 
 /*-- Hero Section --*/
@@ -93,7 +93,7 @@ body {
 
 /*-- Main Section --*/
 
-.menu-box {
+.discover-box {
     border: 2px solid red;
     /* min-height: 500px; */
 }
