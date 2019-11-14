@@ -44,7 +44,7 @@ body {
     z-index: 99;
 }
 
-.bg-color {
+.nav-bg-color {
     background-color: #8B24B3;
 }
 
@@ -119,13 +119,15 @@ body {
 /*-- Contact Section --*/
 
 .contact-box {
-    border: 2px solid rgb(141, 14, 124);
+    background-color: #8B24B3;
     min-height: 500px;
+    color: white;
 }
 
 .contact-info {
     border: 1px solid green;
-    height: 200px;
+    min-height: 200px;
+    list-style: none;
 }
 
 /*-- Footer Section --*/
