@@ -17,7 +17,7 @@ body {
 }
 
 .script-text--yellow {
-    color: ;
+    color: #ffc64b;
 }
 
 .block-divider {
@@ -131,11 +131,24 @@ body {
     color: white;
 }
 
-.contact-info {
+.contact-info, .opening-info {
     /* border: 1px solid green; */
     min-height: 200px;
     list-style: none;
 }
+
+.contact-info ul {
+    padding: 0;
+}
+
+.contact-info ul li {
+    list-style: none;
+}
+
+.contact-info ul li i {
+    margin-right: 15px;
+}
+
 
 /*-- Footer Section --*/
 
