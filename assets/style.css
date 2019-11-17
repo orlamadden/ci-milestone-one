@@ -17,7 +17,7 @@ body {
 }
 
 .script-text--yellow {
-    color: #ffc64b;
+    color: ;
 }
 
 .block-divider {
@@ -62,6 +62,14 @@ body {
 }
 
 .hero-image-menu {
+    background-image: url("/assets/images/cafe-background.jpg");
+    height: 70vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.hero-image-contact {
     background-image: url("/assets/images/cafe-background.jpg");
     height: 70vh;
     background-repeat: no-repeat;
@@ -151,4 +159,15 @@ body {
 
 .copyright {
     color: #797979;
+}
+
+/*-- Contact Page --*/
+
+.btn-contact {
+    background-color: #ffc64b;
+    color: white;
+}
+
+.btn-contact:hover {
+    color:  #8B24B3;
 }
