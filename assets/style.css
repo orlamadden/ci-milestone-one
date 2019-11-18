@@ -99,11 +99,23 @@ body {
     font-size: 1.2rem;
 }
 
-/*-- Menu Section --*/
+/*-- Main Menu Section --*/
 
 .discover-box {
     background-color: #fafafa;
 }
+
+.btn-explore {
+    background-color: #ffc64b;
+    color: white;
+}
+
+.btn-explore:hover {
+    background-color:  #EDB845;
+    color: white;
+}
+
+/*-- Menu page --*/
 
 .menu-item h5 {
     color: #8B24B3;
@@ -120,9 +132,6 @@ body {
     float: right;
 }
 
-.menu-title {
-    color:#8B24B3;
-}
 
 /*-- Gallery Section --*/
 
@@ -191,5 +200,6 @@ body {
 }
 
 .btn-contact:hover {
-    color:  #8B24B3;
+    background-color:  #EDB845;
+    color: white;
 }
