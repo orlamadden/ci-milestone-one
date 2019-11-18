@@ -99,10 +99,15 @@ body {
     font-size: 1.2rem;
 }
 
-/*-- Main Section --*/
+/*-- Menu Section --*/
 
 .discover-box {
     background-color: #fafafa;
+}
+
+.menu-item h5 {
+    color: #8B24B3;
+    font-weight: bold;
 }
 
 .menu-item-outer-box {
@@ -113,6 +118,10 @@ body {
 
 .menu-item-price {
     float: right;
+}
+
+.menu-title {
+    color:#8B24B3;
 }
 
 /*-- Gallery Section --*/
