@@ -62,7 +62,7 @@ body {
 }
 
 .hero-image-menu {
-    background-image: url("/assets/images/cafe-background.jpg");
+    background-image: url("/assets/images/menu-background.jpg");
     height: 70vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -70,7 +70,7 @@ body {
 }
 
 .hero-image-contact {
-    background-image: url("/assets/images/cafe-background.jpg");
+    background-image: url("/assets/images/contact-us-background.jpg");
     height: 70vh;
     background-repeat: no-repeat;
     background-size: cover;
