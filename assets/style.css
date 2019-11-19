@@ -150,8 +150,6 @@ body {
 }
 
 .contact-info, .opening-info {
-    /* border: 1px solid green; */
-    min-height: 200px;
     list-style: none;
 }
 
@@ -197,9 +195,14 @@ body {
 .btn-contact {
     background-color: #ffc64b;
     color: white;
+    width: 100%;
 }
 
 .btn-contact:hover {
     background-color:  #EDB845;
     color: white;
+}
+
+.newsletter-signup .btn {
+    width: 100%;
 }
