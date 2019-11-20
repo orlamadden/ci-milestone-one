@@ -149,16 +149,12 @@ body {
     color: white;
 }
 
-.contact-info, .opening-info {
+.contact-info, .opening-info, ul li {
     list-style: none;
 }
 
-.contact-info ul {
+.contact-info, .opening-info, ul {
     padding: 0;
-}
-
-.contact-info ul li {
-    list-style: none;
 }
 
 .contact-info ul li i {
