@@ -44,6 +44,10 @@ body {
     z-index: 99;
 }
 
+.navbar {
+    height: 85px;
+}
+
 .nav-bg-color {
     background-color: #8B24B3;
 }
@@ -54,7 +58,7 @@ body {
 
 /*-- Hero Section --*/
 .hero-image-home {
-    background-image: url("/assets/images/cafe-background.jpg");
+    background-image: url("../images/cafe-background.jpg");
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
