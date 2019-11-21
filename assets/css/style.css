@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css?family=Muli:400,700|Pacifico&display=swap');
+
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: 'Muli', sans-serif;
+    margin: 0;
+    /* the below code hides horizontal scrollbar https://stackoverflow.com/questions/18645870/responsive-website-how-to-get-rid-of-horizontal-scroll-bar */
+    overflow-x: hidden;
+
+}
+
+/*-- Global styles --*/
+
+.script-text {
+    font-size: 1.2rem;
+    font-family: 'Pacifico', cursive;
+}
+
+.script-text--yellow {
+    color: #ffc64b;
+}
+
+.block-divider {
+    height: 3px;
+    width: 60px;
+}
+
+.block-divider-yellow {
+    background-color: #ffc64b;
+}
+
+.bold-text {
+    font-weight: 700;
+}
+
+/*-- Nav Section --*/
+
+.nav-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-left: 0;
+    padding-right: 0;
+    z-index: 99;
+}
+
+.navbar {
+    height: 85px;
+}
+
+.nav-bg-color {
+    background-color: #8B24B3;
+}
+
+.active {
+    color: #ffc64b;
+}
+
+/*-- Hero Section --*/
+.hero-image-home {
+    background-image: url('../images/cafe-background.jpg');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.hero-image-menu {
+    background-image: url("/assets/images/menu-background.jpg");
+    height: 70vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.hero-image-contact {
+    background-image: url("/assets/images/contact-us-background.jpg");
+    height: 70vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.hero-heading {
+    font-size: 3rem;
+    color: white;
+}
+
+.hero-text-box {
+    padding-top: 300px;
+}
+
+.opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.sub-heading {
+    font-size: 1.2rem;
+}
+
+/*-- Main Menu Section --*/
+
+.discover-box {
+    background-color: #fafafa;
+}
+
+.btn-explore {
+    background-color: #ffc64b;
+    color: white;
+}
+
+.btn-explore:hover {
+    background-color:  #EDB845;
+    color: white;
+}
+
+/*-- Menu page --*/
+
+.menu-item h5 {
+    color: #8B24B3;
+    font-weight: bold;
+}
+
+.menu-item-outer-box {
+    /* border: 1px solid purple; */
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.menu-item-price {
+    float: right;
+}
+
+
+/*-- Gallery Section --*/
+
+.gallery-box {
+    /* border: 2px solid rgb(0, 140, 255); */
+    min-height: 500px;
+}
+
+
+/*-- Contact Section --*/
+
+.contact-box {
+    background-color: #8B24B3;
+    min-height: 500px;
+    color: white;
+}
+
+.contact-info, .opening-info, ul li {
+    list-style: none;
+}
+
+.contact-info, .opening-info, ul {
+    padding: 0;
+}
+
+.contact-info ul li i {
+    margin-right: 15px;
+}
+
+
+/*-- Footer Section --*/
+
+/* .footer {
+    padding: 5rem;
+} */
+
+.bg-footer {
+    background-color:#2b2b2b;
+    color: white;
+    min-height: 100px;
+    padding: 3rem;
+}
+
+.social-links li a i {
+    width: 42px;
+    height: 42px;
+    font-size: 1.5rem;
+    color: #fafafa;
+}
+
+.copyright {
+    color: #797979;
+}
+
+/*-- Contact Page --*/
+
+.btn-contact {
+    background-color: #ffc64b;
+    color: white;
+    width: 100%;
+}
+
+.btn-contact:hover {
+    background-color:  #EDB845;
+    color: white;
+}
+
+.newsletter-signup .btn {
+    width: 100%;
+}
