@@ -44,10 +44,6 @@ body {
     z-index: 99;
 }
 
-.navbar {
-    height: 90px;
-}
-
 .nav-bg-color {
     background-color: #8B24B3;
 }
