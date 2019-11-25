@@ -123,7 +123,6 @@ body {
 }
 
 .menu-item-outer-box {
-    /* border: 1px solid purple; */
     padding-left: 20px;
     padding-right: 20px;
 }
@@ -136,7 +135,6 @@ body {
 /*-- Gallery Section --*/
 
 .gallery-box {
-    /* border: 2px solid rgb(0, 140, 255); */
     min-height: 500px;
 }
 
@@ -163,10 +161,6 @@ body {
 
 
 /*-- Footer Section --*/
-
-/* .footer {
-    padding: 5rem;
-} */
 
 .bg-footer {
     background-color:#2b2b2b;
