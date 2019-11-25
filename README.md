@@ -66,5 +66,28 @@ The main aim of the navbar is to navigate the website The navbar is featured on 
 - I would create a small section above the header that would feature the current day and the opening hours associated with that day.
 - I would create a section that would display daily offers associated with the current day of website visitation.
 
+---
+
+## Technology
+
+#### HTML
+- For building the foundation of my website.
+
+#### CSS
+- For custom styling on my website
+#### Bootstrap 4.3.1
+- The framework behind my website’s structure and layout, which prioritises mobile first design.
+#### Font Awesome
+- For icon elements in the footer.
+#### Google Fonts
+- For choosing fonts that I liked.
+#### Gitpod
+- My IDE of choice for developing my website.
+#### Git 
+- For version control.
+#### Github
+- For storing and managing my code in a remote location.
+
+
 
 This README.md document is a work in progress.
