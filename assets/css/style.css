@@ -18,14 +18,14 @@ body {
 
 .script-text--yellow {
     color: #ffc64b;
+    
 }
 
 .block-divider {
     height: 3px;
     width: 60px;
-}
-
-.block-divider-yellow {
+    margin-left: auto;
+    margin-right: auto;
     background-color: #ffc64b;
 }
 
