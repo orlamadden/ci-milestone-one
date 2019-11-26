@@ -91,6 +91,22 @@ The main aim of the navbar is to navigate the website The navbar is featured on 
 #### Github
 - For storing and managing my code in a remote location.
 
+---
+
+## Testing
+
+- [W3C Mark-up Validation](https://validator.w3.org/) and [W3C CSS Validation](https://jigsaw.w3.org/css-validator/) was used to check the validity of the website. Errors were spotted and fixed.
+
+- Chrome Devtools was used throughout the duration of the project for testing responsiveness of the website and bug fixes.
+
+- [Responsinator](https://www.responsinator.com/) was recommended by my mentor and was used to check the responsiveness of my website across many devices at the same time. This pointed out the burger menu expansion issue which I outline below.
+
+- During testing, the navbar did not display properly on mobile. I gave the navbar a custom height which affected the styling of the burger menu on mobile when it was expanded. I removed the custom styling.
+
+- This site was tested across multiple browsers (Chrome, Safari, Microsoft Edge FireFox) and on multiple mobile devices (iPhone X, Huawei P30 Pro, iPad Pro and Samsung Galaxy S7) to ensure compatibility and responsiveness.
+
+---
+
 
 
 This README.md document is a work in progress.
