@@ -53,6 +53,9 @@ The main aim of the navbar is to navigate the website The navbar is featured on 
 #### Video
 - The inclusion of a video on the home page was for educational purposes only. As Matt’s Café is fictional, this video does not promote my website but would be a compliment to the website.
 
+#### Carousel
+- The homepage features a carousel which displays some of the latest customer images from Instagram.
+
 #### Newsletter Signup form
 - The footer provides a very basic signup form for users to enter if they want to receive a monthly newsletter from Matt’s Café.
 
