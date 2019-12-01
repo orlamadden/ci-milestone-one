@@ -83,7 +83,7 @@ The main aim of the navbar is to navigate the website The navbar is featured on 
 #### Font Awesome
 - For icon elements in the footer.
 #### Google Fonts
-- For choosing fonts that I liked.
+- For choosing fonts that I thought worked well on my website.
 #### Gitpod
 - My IDE of choice for developing my website.
 #### Git 
@@ -107,6 +107,31 @@ The main aim of the navbar is to navigate the website The navbar is featured on 
 
 ---
 
+## Deployment
 
+This project was developed using the GitHub IDE, committed to git and pushed to GitHub.
+To deploy my website to GitHub Pages, the following steps were taken:
+1.	Log into GitHub.
+2.	Selected repository from GitHub dashboard.
+3.	Select ‘Settings’ at the top of the chosen repository.
+4.	Scroll down to GitHub Pages section.
+5.	Under ‘Source’ click the drop-down menu and select ‘Master Branch’.
+6.	Once selected, the page auto refreshed, and the website was deployed.
+
+***NOTE***
+
+**After deployment I realised my images were not displaying correctly. The history of my style.css file might be a little confusing as it looks like it has very little commits made. There is a reason for this which I outline below.**
+
+Upon deploying my website to Github, I realised that my images were not displaying. I found the solution through Slack – I needed to point to a relative path, and not an absolute path. Upon figuring this out, I changed the code accordingly from ‘/assets/images/cafe-background.jpg/’ to ‘.. /images/cafe-background.jpg’. This commit can be found on Nov. 21st 2019.
+
+This change was still not giving me the solution I was looking for. I realised that in the assets folder, I did not have a CSS folder to contain my style.css - I only had an images folder and for this my images were not being picked up. 
+
+[May need a graphic here to visually explain this]
+
+I created a CSS folder and moved my style.css into it. My images were finally being picked up and now working correctly.
+
+Unfortunately, all my style.css commits are contained in the assets folder history, not the CSS folder.
+
+---
 
 This README.md document is a work in progress.
