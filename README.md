@@ -134,4 +134,22 @@ Unfortunately, all my style.css commits are contained in the assets folder histo
 
 ---
 
+## Credits
+
+#### Content
+- The text copy for the home page was written by me.
+- The text copy for the menu was written by me but with a little inspiration from the following websites:
+  * [The Abbey Tavern](https://www.abbeytavern.ie/menus/food)
+  * [Judge Roy Beans](https://www.judgeroybeans.ie/our-menu/)
+  * [Insomnia](https://www.insomnia.ie/menu)
+
+#### Media
+- The video was obtained from [Youtube](https://www.youtube.com/watch?v=ZDQn-9cdx9Q)
+- All images were obtained from [Pexels](https://www.pexels.com/), with the exception of one image from [Pixabay](https://pixabay.com/). It is worth noting that an opacity filter is applied to the hero images on the home page, menu page and contact page.
+
+#### Code
+- Assistance with centering my buttons on the page are from this Stackoverflow post -https://stackoverflow.com/questions/22578853/how-to-center-buttons-in-twitter-bootstrap-3
+
+---
+
 This README.md document is a work in progress.
