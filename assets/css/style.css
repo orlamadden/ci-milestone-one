@@ -4,10 +4,12 @@ body {
     background-color: rgb(255, 255, 255);
     font-family: 'Muli', sans-serif;
     margin: 0;
-    /* the below code hides horizontal scrollbar https://stackoverflow.com/questions/18645870/responsive-website-how-to-get-rid-of-horizontal-scroll-bar */
+    /* removes horizontal scrollbar */
     overflow-x: hidden;
 
 }
+
+/*removes overflow on pages*/
 
 row, container, container-fluid {    align-content: 0;
 margin: 0;
