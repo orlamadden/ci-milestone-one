@@ -125,25 +125,25 @@ The main aim of the navbar is to navigate the website The navbar is featured on 
 #### User Story Testing
 
 1. As a potential customer (and returning customer), I want to check the opening hours of Matt’s Café so I know it is open when I arrive.
-  * At the bottom of each page, the opening hours of the café are clearly labelled.
+   1. At the bottom of each page, the opening hours of the café are clearly labelled.
 2. As a potential customer, I want to check the location of Matt’s Café as I have never been there before and want to know where it is.
-  *At the bottom of the home page, the location of Matt’s Café is clearly labelled.
+   1. At the bottom of the home page, the location of Matt’s Café is clearly labelled.
 3. As a potential customer (and returning customer), I want to read the menu before I decide to eat here.
-  * A clearly labelled menu page is visible on each page.
+   1. A clearly labelled menu page is visible on each page.
 The menu page contains all the food and beverages available to purchase at Matt’s Café.
 4. As a potential customer I want to see if Matt’s Café has social media presence so I can see what other people on Facebook are saying about them.
-  * At the bottom of each page, social media icons (including Facebook) is available. 
+   1. At the bottom of each page, social media icons (including Facebook) is available. 
 5. As a potential customer I want to be able to check Matt’s Café on my mobile device as I do not own a laptop or desktop.
-  * The website is mobile responsive and works on mobile devices.
+   1. The website is mobile responsive and works on mobile devices.
 6. As a potential customer I want to see images of what Matt’s Café has on offer.
-  * As the user scrolls through the homepage, there is a carousel gallery labelled ‘top picks from our Instagram’ which features curated content from visitors to the café.
-  * The user can click on the view more button to be take to Matt’s Café’s Instagram feed to view images.
+   1. As the user scrolls through the homepage, there is a carousel gallery labelled ‘top picks from our Instagram’ which features curated content from visitors to the café.
+   2. The user can click on the view more button to be take to Matt’s Café’s Instagram feed to view images.
 7. As a potential customer I want to be able to contact Matt’s Café if the website does not answer all my questions (like bank holiday opening hours and table reservations for a small party).
-  * A clearly labelled contact page is visible on each page.
-The contact page contains a contact form that the user can input their details and query to send to Matt’s Café. 
+   1. A clearly labelled contact page is visible on each page.
+   2. The contact page contains a contact form that the user can input their details and query to send to Matt’s Café. 
 8. As a potential customer with dietary requirements, I want to contact Matt to see if they can offer a Vegetarian/Vegan alternative to their current menu.
-  * Once the user has scanned the menu, they are met with an asterisk followed by a note detailing that if the user has any dietary requirements, to get in touch via the contact form (there is an inline link that highlights this).
-  * Alternatively, there is a contact form clearly labelled in the navigation bar on each page. 
+   1. Once the user has scanned the menu, they are met with an asterisk followed by a note detailing that if the user has any dietary requirements, to get in touch via the contact form (there is an inline link that highlights this).
+   2. Alternatively, there is a contact form clearly labelled in the navigation bar on each page. 
 
 
 ---
