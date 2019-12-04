@@ -17,7 +17,7 @@ The business owner goals of this website are to:
 - Build brand awareness.
 - Attract more visitors and increase sales.
 
-#### USER STORIES
+#### User Stories
 
 1.	As a potential customer (and returning customer), I want to check the opening hours of Matt’s Café so I know it is open when I arrive.
 2.	As a potential customer, I want to check the location of Matt’s Café as I have never been there before and want to know where it is.
@@ -28,6 +28,24 @@ The business owner goals of this website are to:
 7.	As a potential customer I want to be able to contact Matt’s Café if the website does not answer all my questions.
 8.	As a potential customer with dietary requirements, I want to contact Matt to see if they can offer a Vegetarian/Vegan alternative to their current menu.
 9.	As the owner of Matt’s Café, I want to give visitors enough information and details to entice them to call in to my Café or get in touch if they require more information.
+
+#### Wireframes
+
+I used Adobe Illustrator to complete my wireframes, as I was already familiar with the software. Wireframing my website was extremely beneficial as it allowed me to visualise my website prior to coding and made development a lot easier. I made changes throughout the development stage so my website looks slightly different than the wireframes, but the core concept is still there.
+
+- Home page
+  * [Mobile](https://github.com/orlamadden/ci-milestone-one/blob/master/wireframes/mobile/mockup-mobile-home.jpg)
+  * [Tablet](https://github.com/orlamadden/ci-milestone-one/blob/master/wireframes/tablet/mockup-tablet-home.jpg)
+  * [Desktop](https://github.com/orlamadden/ci-milestone-one/blob/master/wireframes/desktop/mockup-desktop-home.jpg)
+- Menu page
+  * [Mobile](https://github.com/orlamadden/ci-milestone-one/blob/master/wireframes/mobile/mockup-mobile-menu.jpg)
+  * [Tablet](https://github.com/orlamadden/ci-milestone-one/blob/master/wireframes/tablet/mockup-tablet-menu.jpg)
+  * [Desktop](https://github.com/orlamadden/ci-milestone-one/blob/master/wireframes/desktop/mockup-desktop-menu.jpg)
+- Contact page
+  * [Mobile](https://github.com/orlamadden/ci-milestone-one/blob/master/wireframes/mobile/mockup-mobile-contact.jpg)
+  * [Tablet](https://github.com/orlamadden/ci-milestone-one/blob/master/wireframes/tablet/mockup-tablet-contact.jpg)
+  *  [Desktop](https://github.com/orlamadden/ci-milestone-one/blob/master/wireframes/desktop/mockup-desktop-contact.jpg)
+
 
 ---
 
