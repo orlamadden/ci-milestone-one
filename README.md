@@ -1,4 +1,4 @@
-# Milestone Project One - Matt's Café
+# [Milestone Project One - Matt's Café](https://orlamadden.github.io/ci-milestone-one/)
 
 ## Code Institute / User-Centric Frontend Development Milestone Project
 
