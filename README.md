@@ -82,9 +82,10 @@ The main aim of the navbar is to navigate the website The navbar is featured on 
 #### Menu list
 - The menu list on the menu page gives visitors a complete overview of what Matt’s Café offers, along with menu item description and menu item pricing.
 
-#### FUTURE IMPLEMENTATIONS
+#### Recommendations for future feature implementations
 - I would create a small section above the header that would feature the current day and the opening hours associated with that day.
 - I would create a section that would display daily offers associated with the current day of website visitation.
+- I would create a map that displays the location of Matt's Café as it would add to the user experience.
 
 ---
 
