@@ -16,7 +16,26 @@ margin: 0;
 
 }
 
-/*-- Global styles --*/
+/*-- Nav Section --*/
+
+.nav-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-left: 0;
+    padding-right: 0;
+    z-index: 99;
+}
+
+.nav-bg-color {
+    background-color: #8B24B3;
+}
+
+nav.active {
+    color: #ffc64b;
+}
+
+/*-- Home page hero text --*/
 
 .script-text {
     font-size: 1.2rem;
@@ -40,26 +59,7 @@ margin: 0;
     font-weight: 700;
 }
 
-/*-- Nav Section --*/
-
-.nav-container {
-    position: absolute;
-    top: 0;
-    left: 0;
-    padding-left: 0;
-    padding-right: 0;
-    z-index: 99;
-}
-
-.nav-bg-color {
-    background-color: #8B24B3;
-}
-
-.active {
-    color: #ffc64b;
-}
-
-/*-- Hero Section --*/
+/*-- Hero section for home page --*/
 .hero-image-home {
     background-image: url('../images/cafe-background.jpg');
     height: 100vh;
@@ -106,7 +106,7 @@ margin: 0;
     font-size: 1.2rem;
 }
 
-/*-- Main Menu Section --*/
+/*-- Discover menu home page --*/
 
 .discover-box {
     background-color: #ebebeb;
@@ -120,22 +120,6 @@ margin: 0;
 .btn-explore:hover {
     background-color:  #EDB845;
     color: white;
-}
-
-/*-- Menu page --*/
-
-.menu-item h5 {
-    color: #8B24B3;
-    font-weight: bold;
-}
-
-.menu-item-outer-box {
-    padding-left: 20px;
-    padding-right: 20px;
-}
-
-.menu-item-price {
-    float: right;
 }
 
 
@@ -185,6 +169,22 @@ margin: 0;
 
 .copyright {
     color: #797979;
+}
+
+/*-- Menu page --*/
+
+.menu-item h5 {
+    color: #8B24B3;
+    font-weight: bold;
+}
+
+.menu-item-outer-box {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.menu-item-price {
+    float: right;
 }
 
 /*-- Contact Page --*/
