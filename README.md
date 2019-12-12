@@ -192,6 +192,15 @@ Unfortunately, all my style.css commits are contained in the assets folder histo
 #### Code
 - Assistance with centering my buttons on the page are from this Stackoverflow post -https://stackoverflow.com/questions/22578853/how-to-center-buttons-in-twitter-bootstrap-3
 
+#### Acknowledgments
+
+- I got inspiration for this website from Wrapbootstrap.com, specifically:
+   * [Cefrax theme](https://www.chitrakootweb.com/template/cefrax/demo-1.html)
+   * [Foodcastle theme](https://demo.themeregion.com/castle/foodcastle/index1.html)
+- Prior to starting this project, I had been undertaking [Daniel Walter Scott's Web Design course](https://www.udemy.com/course/responsive-web-design-tutorial-course-html5-css3-bootstrap/course) from Udemy. It became a fantastic resource for further understanding Bootstrap.
+- I utilised Anna Greaves's [Bootstrap resources](https://ajgreaves.github.io/bootstrap-grid-demo/containers-rows.html) from the Slack community for referring to the basics of Bootstrap when it got a little overwhelming.
+
+
 ---
 
 This README.md document is a work in progress.
