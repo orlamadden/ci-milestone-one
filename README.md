@@ -45,6 +45,9 @@ I used Adobe Illustrator to complete my wireframes, as I was already familiar wi
   * [Tablet](https://github.com/orlamadden/ci-milestone-one/blob/master/wireframes/tablet/mockup-tablet-contact.jpg)
   *  [Desktop](https://github.com/orlamadden/ci-milestone-one/blob/master/wireframes/desktop/mockup-desktop-contact.jpg)
 
+#### Surface
+
+I went for a minimal colour scheme consisting of the main colour purple, and a secondary yellow colour. I obtained the colours from [Adobe Color](https://color.adobe.com/create). These colours add a friendly, approachable feel to the website. The typography (Muli and Pacifico) choices were a personal preference taken from Google Fonts. I used sans-serif as my main typeface, with a script as a complementary typeface which is primarily used on the homepage. A mobile first approach to developing the website was used and implemented in the design.
 
 ---
 
