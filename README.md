@@ -200,8 +200,5 @@ Unfortunately, all my style.css commits are contained in the assets folder histo
    * [Foodcastle theme](https://demo.themeregion.com/castle/foodcastle/index1.html)
 - Prior to starting this project, I had been undertaking [Daniel Walter Scott's Web Design course](https://www.udemy.com/course/responsive-web-design-tutorial-course-html5-css3-bootstrap/course) from Udemy. It became a fantastic resource for further understanding Bootstrap.
 - I utilised Anna Greaves's [Bootstrap resources](https://ajgreaves.github.io/bootstrap-grid-demo/containers-rows.html) from the Slack community for referring to the basics of Bootstrap when it got a little overwhelming.
-
-
----
-
-This README.md document is a work in progress.
+- A special thanks to my mentor, Antonio Rodriguez for his support, time and feedback throughout my project.
+- I would also like to thank Marie-Pia Kuti from the Slack community for taking the time to review my code and make suggestions. Much appreciated!
