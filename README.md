@@ -4,7 +4,7 @@
 
 Tasked to create a static website combining knowledge from the first three modules in the Full Stack Web Development course with the Code Institute. 
 
-I decided to build a fictional café website called Matt’s Café. This website allows customers and potential customers of the café to view the menu, opening hours and location before visiting.
+I decided to build a fictional café website called Matt’s Café. This website allows customers and potential customers to view the café menu, the café's opening hours and it's location before visiting.
 
 ## UX
 
@@ -14,8 +14,8 @@ The goal of this website for customers and potential customers is to:
 - Display opening hours.
 
 The business owner goals of this website are to:
-- Build brand awareness.
-- Attract more visitors and increase sales.
+- Build brand awareness through an online presence.
+- Attract more visitors and increase sales through an enticing menu offering.
 
 #### User Stories
 
@@ -27,6 +27,7 @@ The business owner goals of this website are to:
 6.	As a potential customer I want to see images of what Matt’s Café has on offer. 
 7.	As a potential customer I want to be able to contact Matt’s Café if the website does not answer all my questions. I want to see a contact form so I can submit information.
 8.	As a potential customer with dietary requirements, I want to contact Matt to see if they can offer a Vegetarian/Vegan alternative to their current menu. I want to see what items are included in each meal.
+9. As the business owner, I want to have a good online presence that entices users to visit our café.
 
 #### Wireframes
 
@@ -116,7 +117,7 @@ The main aim of the navbar is to navigate the website The navbar is featured on 
 
 ## Testing
 
-- [W3C Mark-up Validation](https://validator.w3.org/) and [W3C CSS Validation](https://jigsaw.w3.org/css-validator/) was used to check the validity of the website. Errors were spotted and fixed.
+- [W3C Mark-up Validation](https://validator.w3.org/) and [W3C CSS Validation](https://jigsaw.w3.org/css-validator/) was used to check the validity of the website. Errors were spotted (extra divs) and fixed.
 
 - Chrome Devtools was used throughout the duration of the project for testing responsiveness of the website and bug fixes.
 
@@ -147,7 +148,10 @@ The menu page contains all the food and beverages available to purchase at Matt�
    2. The contact page contains a contact form that the user can input their details and query to send to Matt’s Café. 
 8. As a potential customer with dietary requirements, I want to contact Matt to see if they can offer a Vegetarian/Vegan alternative to their current menu.
    1. Once the user has scanned the menu, they are met with an asterisk followed by a note detailing that if the user has any dietary requirements, to get in touch via the contact form (there is an inline link that highlights this).
-   2. Alternatively, there is a contact form clearly labelled in the navigation bar on each page. 
+   2. Alternatively, there is a contact form clearly labelled in the navigation bar on each page.
+9. As the business owner, I want to have a good online presence that entices users to visit our café.
+   1. The user is met with inviting imagery of Matt's Café on the home page.
+   2. When the user navigates to the menu page, they are met with a comprehensive list of items on offer with pricing information.
 
 
 ---
