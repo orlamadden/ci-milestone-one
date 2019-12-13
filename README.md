@@ -191,6 +191,7 @@ Unfortunately, all my style.css commits are contained in the assets folder histo
 
 #### Code
 - Assistance with centering my buttons on the page are from this Stackoverflow post -https://stackoverflow.com/questions/22578853/how-to-center-buttons-in-twitter-bootstrap-3
+- Code for removing the horizontal scroll bar that was present, was taken from this Stackoverflow post - https://stackoverflow.com/questions/4405954/how-do-i-remove-the-horizontal-scrollbar-in-a-div
 
 #### Acknowledgments
 
