@@ -11,8 +11,8 @@ body {
 
 /*removes overflow on pages*/
 
-row, container, container-fluid {    align-content: 0;
-margin: 0;
+row, container, container-fluid {           align-content: 0;
+  margin: 0;
 
 }
 
