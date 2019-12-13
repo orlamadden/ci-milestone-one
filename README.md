@@ -133,10 +133,10 @@ The main aim of the navbar is to navigate the website The navbar is featured on 
 2. As a potential customer, I want to check the location of Matt’s Café as I have never been there before and want to know where it is.
    1. At the bottom of the home page, the location of Matt’s Café is clearly labelled.
 3. As a potential customer (and returning customer), I want to read the menu before I decide to eat here.
-   1. A clearly labelled menu page is visible on each page.
+   1. A clearly labelled menu page is visible on each page with pricing information.
 The menu page contains all the food and beverages available to purchase at Matt’s Café.
 4. As a potential customer I want to see if Matt’s Café has social media presence so I can see what other people on Facebook are saying about them.
-   1. At the bottom of each page, social media icons (including Facebook) is available. 
+   1. At the bottom of each page, social media icons (including Facebook) is available. I visit their Facebook page and can read reviews.
 5. As a potential customer I want to be able to check Matt’s Café on my mobile device as I do not own a laptop or desktop.
    1. The website is mobile responsive and works on mobile devices.
 6. As a potential customer I want to see images of what Matt’s Café has on offer.
