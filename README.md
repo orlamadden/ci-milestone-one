@@ -20,13 +20,13 @@ The business owner goals of this website are to:
 #### User Stories
 
 1.	As a potential customer (and returning customer), I want to check the opening hours of Matt’s Café so I know it is open when I arrive.
-2.	As a potential customer, I want to check the location of Matt’s Café as I have never been there before and want to know where it is.
-3.	As a potential customer (and returning customer), I want to read the menu before I decide to eat here.
-4.	As a potential customer I want to see if Matt’s Café has social media presence so I can see what other people on Facebook are saying about them.
-5.	As a potential customer I want to be able to check Matt’s Café on my mobile device as I do not own a laptop or desktop.
-6.	As a potential customer I want to see images of what Matt’s Café has on offer.
-7.	As a potential customer I want to be able to contact Matt’s Café if the website does not answer all my questions.
-8.	As a potential customer with dietary requirements, I want to contact Matt to see if they can offer a Vegetarian/Vegan alternative to their current menu.
+2.	As a potential customer, I want to check the location of Matt’s Café as I have never been there before and want to know where it is located.
+3.	As a potential customer (and returning customer), I want to read the menu before I decide to eat here. I want to see pricing information.
+4.	As a potential customer I want to see if Matt’s Café has social media presence so I can see what other people on Facebook are saying about them in the public sphere.
+5.	As a potential customer I want to be able to check Matt’s Café on my mobile device as I do not own a laptop or desktop. I expect it to work on mobile.
+6.	As a potential customer I want to see images of what Matt’s Café has on offer. 
+7.	As a potential customer I want to be able to contact Matt’s Café if the website does not answer all my questions. I want to see a contact form so I can submit information.
+8.	As a potential customer with dietary requirements, I want to contact Matt to see if they can offer a Vegetarian/Vegan alternative to their current menu. I want to see what items are included in each meal.
 
 #### Wireframes
 
